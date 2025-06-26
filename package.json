@@ -1,0 +1,24 @@
+{
+  "name": "wanderlust",
+  "version": "1.0.0",
+  "description": "This is My first fullstack project !",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denish178/Wanderlust.git"
+  },
+  "author": "Denish Murawala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denish178/Wanderlust/issues"
+  },
+  "homepage": "https://github.com/denish178/Wanderlust#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
